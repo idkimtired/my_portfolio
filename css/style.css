@@ -1,0 +1,50 @@
+#mainNav {
+ background: black;
+}
+
+header{
+  background-color: pink;
+
+}
+
+section.success{
+background-color: pink;
+
+}
+
+footer.footer-above{
+
+background-color: black;
+
+}
+
+footer .footer-above {
+  background-color: black;
+
+}
+
+col-lg-12{
+
+background-color: black;
+
+}
+
+footer .footer-below{
+
+background-color: black;
+
+}
+
+.social-m{
+
+  height: 25px;
+  width: 25px;
+
+}
+
+.social-p{
+
+  height: 25px;
+  width: 25px;
+
+}
